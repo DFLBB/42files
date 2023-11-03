@@ -1,0 +1,5 @@
+Esto es un archivo
+con varias lineas
+
+que no acaba
+en la segunda
